@@ -1,1 +1,1 @@
-![Banner!](https://github.com/ArchitAnant/ArchitAnant/blob/main/Banner.png)
+![Banner!](https://github.com/ArchitAnant/ArchitAnant/blob/main/banner-new.png)
